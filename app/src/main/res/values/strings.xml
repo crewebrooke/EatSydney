@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Eat Sydney</string>
+    <string name="breakfast_category">Breakfast</string>
+    <string name="lunch_category">Lunch</string>
+    <string name="dinner_category">Dinner</string>
+    <string name="snacks_category">Snacks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="breakfast_one">The Grounds</string>
+    <string name="breakfast_one_address">Huntley Street Alexandria 2015</string>
+    <string name="breakfast_one_rating">Rating 5/5</string>
+
+    <string name="breakfast_two">Bondi Trattoria</string>
+    <string name="breakfast_two_address">Campbell Parade Bondi, 2026</string>
+    <string name="breakfast_two_rating">Rating 4/5</string>
+
+    <string name="breakfast_three">Nook</string>
+    <string name="breakfast_three_address">Hunter Street CBD 2000</string>
+    <string name="breakfast_three_rating">Rating 3/5</string>
+
+    <string name="lunch_one">Manly Wine</string>
+    <string name="lunch_one_address">S Steyne Manly 2095</string>
+    <string name="lunch_one_rating">Rating 5/5</string>
+
+    <string name="lunch_two">Barefoot on the Beach</string>
+    <string name="lunch_two_address">Gerrale Street Cronulla 2230</string>
+    <string name="lunch_two_rating">Rating 4/5</string>
+
+    <string name="lunch_three">Bathers Pavilion</string>
+    <string name="lunch_three_address">The Esplanade Mosman 2088</string>
+    <string name="lunch_three_rating">Rating 3/5</string>
+
+    <string name="dinner_one">Opera Bar</string>
+    <string name="dinner_one_address">Macquarrie Street Sydney Harbour 2000</string>
+    <string name="dinner_one_rating">Rating 5/5</string>
+
+    <string name="dinner_two">Sydney Tower Eye</string>
+    <string name="dinner_two_address">Market Street NSW 2000</string>
+    <string name="dinner_two_rating">Rating 4/5</string>
+
+    <string name="dinner_three">Italian Bowl</string>
+    <string name="dinner_three_address">King Street Newtown 2042</string>
+    <string name="dinner_three_rating">Rating 3/5</string>
+
+    <string name="snacks_one">Spice Alley</string>
+    <string name="snacks_one_address">Kensington Street Chippendale 2008</string>
+    <string name="snacks_one_rating">Rating 5/5</string>
+
+    <string name="snacks_two">MySweetMemory</string>
+    <string name="snacks_two_address">Bathurst Street NSW 2000</string>
+    <string name="snacks_two_rating">Rating 4/5</string>
+
+    <string name="snacks_three">Tom N Toms</string>
+    <string name="snacks_three_address">Bathurst Street NSW 2000</string>
+    <string name="snacks_three_rating">Rating 3/5</string>
+
+
+</resources>
+
